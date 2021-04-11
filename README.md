@@ -1,2 +1,1 @@
-# alura_grid
- Organizando a 'Alura Store' em grid.
+![Caption](https://files.cercomp.ufg.br/weby/up/342/o/em_construcao.jpg)
